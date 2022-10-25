@@ -1,4 +1,4 @@
-### SpringBoot-Mongo-App
+# SpringBoot-Mongo-App
 +This is an application which connects with Mongo DataBase.
 +OpenAPI has been integrated so you can use it to test all API.
 
@@ -7,4 +7,4 @@
 * Check the `port` availability before starting app.
 * In `application.properties` file provide your `mongodb uri` and `user`, `password` details.
 
-# End of read me
+### End of read me
