@@ -1,6 +1,6 @@
 # SpringBoot-Mongo-App
-+This is an application which connects with Mongo DataBase.
-+OpenAPI has been integrated so you can use it to test all API.
++ This is an application which connects with Mongo DataBase.
++ OpenAPI has been integrated so you can use it to test all API.
 
 ## Prerequisite
 * Need of Mongo Database either a locally installed or cloud connection from [mongo official page](https://www.mongodb.com/).
